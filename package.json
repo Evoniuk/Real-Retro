@@ -3,6 +3,11 @@
     "displayName": "Real Retro",
     "description": "A truly retro theme",
     "version": "0.0.1",
+    "publisher": "JackEvoniuk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Evoniuk/Real-Retro"
+    },
     "engines": {
         "vscode": "^1.54.0"
     },
