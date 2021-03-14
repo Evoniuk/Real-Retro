@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "real-retro"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Real Retro
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A color theme for those who don't need no newfangled syntax highlighting or bright colors. That good ol' yellowy tint that's easy on the eyes is all you ever need. Works best with the FixedSys font for maximum retro feel.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Example in C](images/c-example.png)
 
-**Enjoy!**
+Okay, strings are green and comments are gray, but that's all you get!
