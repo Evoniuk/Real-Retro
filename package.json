@@ -21,6 +21,11 @@
                 "label": "Real Retro",
                 "uiTheme": "vs",
                 "path": "./themes/Real Retro-color-theme.json"
+            },
+            {
+                "label": "Real Retro Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Real Retro-color-theme-dark.json"
             }
         ]
     }
